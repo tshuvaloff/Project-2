@@ -1,6 +1,6 @@
 html body { 
-  margin-top: 50%;
-  width: 80%;
+  margin-top: 10%;
+  width: 70%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -15,7 +15,7 @@ html {
 
 body {
   background:transparent;
-  color: #2E94D4;
+  color: #EBB454;
 }
 
 form{
@@ -45,7 +45,7 @@ button.btn.btn-default {
   margin-top: 10%;
   background: transparent;
   border: solid #2E94D4;
-  color: #2E94D4;
+  color: #EBB454;
   width: 50%;
   border-radius: 8px;
 }
